@@ -1,0 +1,5 @@
+com\hotelapp\xml\mail\package-info.class
+com\hotelapp\xml\mail\SendEmailResponse.class
+com\hotelapp\xml\mail\ServiceStatus.class
+com\hotelapp\xml\mail\SendEmailRequest.class
+com\hotelapp\xml\mail\ObjectFactory.class
